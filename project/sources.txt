@@ -1,5 +1,5 @@
-./src/main/java/RecursiveFactorial.java
-./src/main/java/Factorial.java
-./src/main/java/IterativeFactorial.java
-./src/main/java/FactorialMaster_test.java
+./src/main/java/InsertionSort.java
+./src/main/java/Flexisort_test.java
+./src/main/java/BubbleSort.java
 ./src/main/java/StopAfterFailureExtension.java
+./src/main/java/Sorter.java
