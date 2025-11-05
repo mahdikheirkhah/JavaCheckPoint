@@ -32,7 +32,7 @@ cp ./pom.xml ./project
 
 cd project
 
-find -name "*.java" > sources.txt
+find . -name "*.java" > sources.txt
 
 mvn compile -Dmaven.repo.local=./tests_utility \
             -Dmaven.compiler.include=@sources.txt exec:java \
