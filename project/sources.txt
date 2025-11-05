@@ -1,3 +1,5 @@
-./src/main/java/AlmostPalindrome.java
-./src/main/java/AlmostPalindrome_test.java
+./src/main/java/RecursiveFactorial.java
+./src/main/java/Factorial.java
+./src/main/java/IterativeFactorial.java
+./src/main/java/FactorialMaster_test.java
 ./src/main/java/StopAfterFailureExtension.java
