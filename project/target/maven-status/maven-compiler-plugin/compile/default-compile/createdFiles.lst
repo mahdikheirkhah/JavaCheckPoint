@@ -1,3 +1,6 @@
-Singleton.class
-SingletonBlueprintTest.class
+Product.class
+Factory.class
+ConcreteProductA.class
+ConcreteProductB.class
+FactoryBlueprintTest.class
 StopAfterFailureExtension.class
