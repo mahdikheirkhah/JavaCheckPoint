@@ -1,5 +1,3 @@
-SingleLinkedListTest.class
-SingleLinkedList$Node.class
-SingleLinkedList.class
+Singleton.class
+SingletonBlueprintTest.class
 StopAfterFailureExtension.class
-LinkedList.class

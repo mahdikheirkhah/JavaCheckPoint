@@ -1,4 +1,3 @@
-./src/main/java/LinkedList.java
-./src/main/java/SingleLinkedList.java
-./src/main/java/SingleLinkedList_test.java
+./src/main/java/Singleton.java
+./src/main/java/SingletonBlueprint_test.java
 ./src/main/java/StopAfterFailureExtension.java
