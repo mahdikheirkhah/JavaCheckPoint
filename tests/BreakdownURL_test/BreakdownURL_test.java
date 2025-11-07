@@ -48,7 +48,7 @@ class BreakdownURLTest {
         Map<String, String> components = parser.parseURL(url);
 
         assertThat(components)
-                .withFailMessage("Expected components to be {protocol=https, domain=www.example.com, path=/} but got %s", components)
+                .withFailMessage("Expected couhmponents to be {protocol=https, domain=www.example.com, path=/} but got %s", components)
                 .containsEntry("protocol", "https")
                 .containsEntry("domain", "www.example.com")
                 .hasSize(2);  // Ensure only these 3 components are present
