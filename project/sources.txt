@@ -1,3 +1,3 @@
-./src/main/java/DistinctSubstringLength.java
-./src/main/java/DistinctSubstringLength_test.java
+./src/main/java/FirstUnique.java
+./src/main/java/FirstUnique_test.java
 ./src/main/java/StopAfterFailureExtension.java
