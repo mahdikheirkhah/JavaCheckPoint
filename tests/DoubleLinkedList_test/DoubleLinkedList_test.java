@@ -274,7 +274,7 @@ class DoubleLinkedListTest {
 
         list.remove(-1);
 
-        assertThat(list.at(1))
+        assertThat(list.size())
         .withFailMessage("Expected size 2 after removing item out of bound at index -1 but got %d\"", list.size())
                 .isEqualTo(2);
     }

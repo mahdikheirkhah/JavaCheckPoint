@@ -1,6 +1,3 @@
-RegexDirector.class
-RegexBuilder.class
-BuilderBlueprintTest.class
-Regex.class
-ConcreteRegexBuilder.class
+IsAnagramTest.class
+AnagramChecker.class
 StopAfterFailureExtension.class
