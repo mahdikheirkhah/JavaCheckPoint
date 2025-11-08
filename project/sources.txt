@@ -1,3 +1,3 @@
+./src/main/java/LongestCommonPrefix.java
+./src/main/java/LongestCommonPrefix_test.java
 ./src/main/java/StopAfterFailureExtension.java
-./src/main/java/TopFrequents.java
-./src/main/java/TopFrequents_test.java
